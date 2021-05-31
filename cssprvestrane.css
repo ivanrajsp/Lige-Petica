@@ -1,0 +1,22 @@
+h1
+{
+	width:100%;
+	background-color:cadetblue;
+	text-align:center;
+	padding:15px;
+	color:orange;
+	
+}
+p
+{
+	border-left:15px solid #008080;
+	padding-left:10px;
+	width:80%;
+	font-size:22px;
+	text-align:left;
+}
+
+ol 
+{ 
+	font-size:25px;
+}
